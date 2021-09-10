@@ -194,7 +194,7 @@ padding-left: 8px;
 /*================ topmenu end here ===================*/
 section{
 background-color: #F1F2F4;
-padding-bottom: 20px;
+padding-bottom: 10px;
 }
 
 .reffer {
@@ -884,4 +884,17 @@ margin: auto;
 /*==================extra===============*/
 .bongo-sec{
   margin-top: 30px;
+}
+.best-sell{
+  background-image: url(../img/book/lime-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ban2 img{
+  width: 48.5%;
+  justify-content: space-between;
+}
+.ban2{
+  justify-content: space-between;
+  margin: 30px 0;
 }
